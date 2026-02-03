@@ -8,6 +8,13 @@ class Variable{
             //So, decribing num1+num2 directly in print statement we can define them in a new variable 
             int result = num1 + num2;
             System.out.println(result);
+            /*
+                In java there are many primitive data types 
+                #integer--> int,long,short,byte
+                #float-->float,double
+                character--> char
+                boolean-->boolean
+            */
     }
 
 }
